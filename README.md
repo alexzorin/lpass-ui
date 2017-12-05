@@ -1,5 +1,8 @@
 # lpass-ui
 
+## Deprecation Notice
+This project is no longer being worked on, as I have [moved onto a different solution](https://github.com/alexzorin/i3-lastpass).
+
 ![gif preview](http://i.imgur.com/YkMK8Fz.gif)
 
 This is a very thin feature-bare QML over the top of [lpass/lastpass-cli](https://github.com/lastpass/lastpass-cli/) for use with Linux (though it may work with other platforms, there's no Linux specific code).
